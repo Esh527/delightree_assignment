@@ -1,0 +1,27 @@
+
+body{
+  background-color: #a89090;
+}
+.form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #cbc5c5;
+  }
+  
+  .form-control {
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+  }
+
+  .input{
+    background-color: #cbc5c5;
+    border-color: #cbc5c5;
+  }
+  
